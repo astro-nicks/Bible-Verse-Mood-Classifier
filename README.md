@@ -91,5 +91,3 @@ Then open the link (usually `http://localhost:8501`) in your browser.
 - Verses sourced from the **Holy Bible (ESV, NIV)**  
 - Inspired by the desire to blend **faith** and **technology** beautifully.
 ````
-
-Would you like me to include a short **“How to contribute”** section too — in case you open-source this later (e.g., on GitHub)?
